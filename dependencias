@@ -1,0 +1,8 @@
+//dependencias
+
+cors
+ejs - nada
+express
+express-myconnection
+mysql
+nodemon
